@@ -1,0 +1,58 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(219, 170, 178);
+}
+
+.page-title {
+    font-weight: 300px;
+    font-size: 56px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(176, 103, 115);
+}
+
+.meal {
+    background-color: rgb(211, 211, 211);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(176, 103, 115);
+    border-radius: 10px;
+    color: rgb(176, 103, 115);
+    display: inline-block;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.item {
+    background-color: rgb(211, 211, 211);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(176, 103, 115);
+    border-radius: 10px;
+    color: rgb(176, 103, 115)a;
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.item-head {
+    font-weight: 1000;
+    font-size: 32px;
+    color: rgb(176, 103, 115);
+}
+
+.tag {
+    background-color: rgb(219, 170, 178);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(176, 103, 115);
+    border-radius: 10px;
+    color: rgb(23, 23, 23);
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
